@@ -1,10 +1,10 @@
 {
   "name": "noteme",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "",
-  "main": "src/app.js",
+  "main": "cli.js",
   "bin": {
-    "note": "src/app.js"
+    "noteme": "cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
